@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+chroma_db/*
+!chroma_db/.gitkeep
+outputs/*
+!outputs/.gitkeep
+# Source PDF is included in the ZIP for convenience. Check redistribution rights before public upload.
+data/*.pdf
